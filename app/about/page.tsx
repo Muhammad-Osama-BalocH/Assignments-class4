@@ -1,10 +1,10 @@
-export default function AboutPage() {
+function About() {
     return (
-      <div className="container mx-auto px-4 py-8">
-        <h1 className="text-4xl font-bold mb-4">About Us</h1>
-        <p>This is the About page where we describe the purpose of the app.</p>
+      <div>
+        <h2 className="font-bold align-middle accent-lime-100 bg-slate-400">About Us</h2>
       </div>
     );
   }
   
+  export default About;
   
