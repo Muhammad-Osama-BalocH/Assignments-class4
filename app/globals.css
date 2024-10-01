@@ -2,55 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-/* globals.css */
-/* body {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-nav {
-  background-color: #333;
-  padding: 15px;
-  position: fixed;
-  top: 0;
-  width: 100%;
-  z-index: 1000;
-}
-
-nav ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  display: flex;
-  justify-content: flex-end;
-}
-
-nav ul li {
-  margin-right: 20px;
-}
-
-nav ul li a {
-  color: white;
-  text-decoration: none;
-  font-size: 18px;
-}
-
-nav ul li a:hover {
-  text-decoration: underline;
-}
-
-.container {
-  padding-top: 80px; /* For space below the fixed navigation bar */
-  /* text-align: center;
-}
-
-h1, h2 {
-  color: #333;
-}  */
-
-
 /* app/globals.css */
 body {
   font-family: Arial, sans-serif;
